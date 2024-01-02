@@ -1,16 +1,15 @@
-# flutter_ecommerce_mvc
+# Flutter Ecommerce
 
-A new Flutter project.
+### An open source app made by a google expert, I studied it
+### to learn how to get the best performance from flutter:
+[Link of the project](https://github.com/TarekAlabd/flutter-ecommerce-live-coding)
 
-## Getting Started
+## What features are implemented?
+1. MVC Design Pattern
+2. Firebase Authentication
+3. Cloud Firestore
+5. Provider State management
+<div>
+  <img src = "https://github.com/ahmedhassan-dev/flutter-ecommerce-live-coding/assets/62114128/c50e35d2-dec4-4faa-8c11-36dbc6d9c769" height = 350>
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
